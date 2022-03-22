@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ponsho Mogala
-- 👀 I’m interested in .JavaScript ..
+- 👀 I’m interested in .JavaScript, HTML,SCC ..
 - 🌱 I’m currently learning ..computer science .
 - 💞️ I’m looking to collaborate on .openlab project ..
 - 📫 How to reach me ..via emailpmogala26@gmail.com .
